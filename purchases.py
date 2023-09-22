@@ -1,5 +1,5 @@
 purchases = float(input("Number of purchases: "))
-tax = float(input("Sales Tax: "))
+tax = float(input("Sales tax: "))
 names = []
 costs = []
 i = 0
